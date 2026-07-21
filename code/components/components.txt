@@ -1,0 +1,15 @@
+ESP8266 NodeMCU
+
+PIR Motion Sensor
+
+IR Sensor
+
+Servo Motor
+
+Breadboard
+
+Jumper Wires
+
+USB Cable
+
+Power Supply
